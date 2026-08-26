@@ -1,34 +1,47 @@
-<h1 align="center">Hi 👋, I'm Om Upadhyay</h1>
-<h3 align="center">Where I build, break, and learn.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0m-upadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="0m-upadhyay" /> </p>
+# `dto.dev`
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0m-upadhyay" alt="0m-upadhyay" /></a> </p>
+### Om Upadhyay
 
-- 🔭 I’m currently working on [Tangeled-treasures](https://github.com/0m-upadhyay/Tangeled-Treasures)
+**building things, breaking things, learning why.**
 
-- 🌱 I’m currently learning **FullStack Development, CyberSecurity**
+<br>
 
-- 👯 I’m looking to collaborate on **Web development, cybersecurity & SaaS**
+<a href="https://github.com/0m-upadhyay">
+  <img src="https://img.shields.io/badge/GitHub-0m--upadhyay-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:om.upadh19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-- 🤝 I’m looking for help with **CyberSecurity**
+<br><br>
 
-- 💬 Ask me about **Html, Css, Python, C, C++**
+<img src="https://komarev.com/ghpvc/?username=0m-upadhyay&label=PROFILE%20VIEWS&color=181717&style=flat-square" alt="Profile Views"/>
 
-- 📫 How to reach me **om.upadh19@gmail.com**
+</div>
 
-- ⚡ Fun fact **I am a multi-tasker**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/om upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om upadhyay" height="30" width="40" /></a>
-</p>
+## `> whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Hey! I'm **Om Upadhyay** — a developer who likes turning ideas into working things.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0m-upadhyay&show_icons=true&locale=en&layout=compact" alt="0m-upadhyay" /></p>
+I'm currently focused on **full-stack development and cybersecurity**, while experimenting with projects, interfaces, automation and SaaS ideas.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0m-upadhyay&show_icons=true&locale=en" alt="0m-upadhyay" /></p>
+I learn best by building something, breaking it, figuring out why it broke, and building it better.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0m-upadhyay&" alt="0m-upadhyay" /></p>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   name         →  Om Upadhyay                               │
+│   alias        →  dto.dev                                   │
+│   username     →  0m-upadhyay                               │
+│                                                             │
+│   currently    →  Full-stack Development                    │
+│                   Cybersecurity                             │
+│                   SaaS & Product Development                 │
+│                                                             │
+│   mindset      →  Build → Break → Learn → Repeat            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
