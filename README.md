@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building Tangled Treasures — a handmade crochet gift storefront<br>🌱 Currently learning Full-Stack Development and Cybersecurity<br>👯 Looking to collaborate on Web Development, Cybersecurity & SaaS projects<br>🤝 Looking for guidance/help with Cybersecurity<br>💬 Ask me about HTML, CSS, Python, C, C++<br>📫 Reach me at om.upadh19@gmail.com<br>⚡ Fun fact: I'm a multi-tasker
+🔭 Currently building Tangled Treasures — a handmade crochet gift storefront<br>🌱 Currently learning Full-Stack Development and Cybersecurity<br>👯 Looking to collaborate on Web Development, Cybersecurity & SaaS projects<br>🤝 Looking for guidance/help with Cybersecurity<br>💬 Ask me about HTML, CSS, Python<br>📫 Reach me at om.upadh19@gmail.com<br>⚡ Fun fact: I'm a multi-tasker
 
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Learning+CyberSecurity+every+day;Always+shipping+something+new" alt="Typing SVG" /> </p>
